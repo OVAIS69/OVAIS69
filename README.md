@@ -19,7 +19,7 @@ I am a motivated Front-End Developer with a strong foundation in building modern
   <a href="https://discord.com/users/939759618039627806" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="buymeacoffee.com/ovais0404l" target="_blank">
+  <a href=buymeacoffee.com/ovais0404l>
     <img src="https://img.shields.io/badge/buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=Buy%20me%20a%20coffee&logoColor=brown" alt="Buy me a Coffee" />
   </a>
 </div>
