@@ -19,10 +19,11 @@ I am a motivated Front-End Developer with a strong foundation in building modern
   <a href="https://discord.com/users/939759618039627806" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
+  <a href="https://www.buymeacoffee.com/ovais0404l" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" ></a>
 </div>
 
 
-<a href="https://www.buymeacoffee.com/ovais0404l" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/ovais0404l" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" ></a>
 
 ## 🛠️ Tech Stack
 
