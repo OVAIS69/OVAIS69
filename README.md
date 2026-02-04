@@ -8,6 +8,8 @@ I am a motivated Front-End Developer with a strong foundation in building modern
 - 👯 I’m looking to collaborate on **Open Source projects**.
 - 📫 Reach me at: **ovais.0404@gmail.com**
 
+<a href="https://www.buymeacoffee.com/ovais0404l" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
