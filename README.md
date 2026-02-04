@@ -25,23 +25,7 @@ I am a motivated Front-End Developer with a strong foundation in building modern
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-## 🚀 Projects
 
-### 🌾 AgriLocal – Smart Farming Marketplace
-*HTML, CSS, JavaScript, Flask, SQLite*
-A multi-language platform connecting farmers with consumers, featuring crop recommendations and localized guidance.
-
-### 🏨 RoomSync – Interactive Room Booking System
-*React, Tailwind CSS, Node.js, Express, MongoDB*
-Real-time room scheduling system with conflict prevention and automated workflows.
-
-### 📝 AetherList – AI-Powered To-Do List
-*JavaScript, Web Speech API, Local Storage*
-Productivity-focused task manager with voice input and gamification.
-
-### 🪞 AiMirror – AI Personality Reflection Tool
-*Python, Streamlit, OpenAI API*
-AI-driven analysis tool using voice input and NLP to generate personality insights.
 
 ## 💼 Experience
 
