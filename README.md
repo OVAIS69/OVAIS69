@@ -19,8 +19,10 @@ I am a motivated Front-End Developer with a strong foundation in building modern
   <a href="https://discord.com/users/939759618039627806" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ovais0404l" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script> </div>
-
+  <a href="buymeacoffee.com/ovais0404l" target="_blank">
+    <img src="https://img.shields.io/badge/buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=Buy%20me%20a%20coffee&logoColor=brown" alt="Buy me a Coffee" />
+  </a>
+</div>
 
 
 
