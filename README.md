@@ -1,5 +1,5 @@
 # Hi there, I'm Ovais Shaikh! 👋
-### Front-End Developer | Python & AI Enthusiast from Mumbai, India 🇮🇳
+### Web Developer | Python & AI Enthusiast from Mumbai, India 🇮🇳
 
 I am a motivated Front-End Developer with a strong foundation in building modern web applications and AI-powered tools. I love solving real-world problems through code and design.
 
