@@ -42,17 +42,3 @@ I am a motivated Front-End Developer with a strong foundation in building modern
 </div>
 
 
-
-## 💼 Experience
-
-- **Web Development & Designing Intern** @ The Sparks Foundation (GRIP) *May 2024 – June 2024*
-- **Freelance Web Developer** *2023 – Present*
-- **Freelance Video Editor & Graphic Designer** *2022 – Present*
-
-## 🏆 Achievements
-- Winner of Code Canvas (Campus Coding Competition)
-- Multiple intercollegiate certificates for front-end development projects
-- Recognized for UI/UX creativity and AI integration in college tech events
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OVAIS69&show_icons=true&theme=radical)
